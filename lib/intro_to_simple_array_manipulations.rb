@@ -34,5 +34,5 @@ def using_delete(instructors, name = "Steven")
   instructors.delete("Steven")
 end
 def using_delete_at(famous_robots, value = 2)
-  famous_robots.delete(2.to_i)
+  famous_robots.delete(2)
 end
