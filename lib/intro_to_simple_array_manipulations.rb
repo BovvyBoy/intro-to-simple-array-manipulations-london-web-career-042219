@@ -29,4 +29,5 @@ def using_uniq(captain_planet_and_the_planeteers)
 end
 def using_flattern(private_colleges_in_newyork)
   private_colleges_in_newyork.flattern
+  return private_colleges_in_newyork
 end
